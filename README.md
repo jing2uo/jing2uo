@@ -2,7 +2,7 @@
 
 Hi, I'm a passionate developer focused on cloud-native technologies, automation, and efficiency. I enjoy building tools, contributing to the open-source community, and exploring new fields like economics, finance, and quantitative investing. Currently working remotely.
 
-Outside of coding, I love hands-on projects like soldering split keyboards and tinkering with my Debian Sid setup running the Hyprland desktop environment.
+Outside of coding, I love hands-on projects like soldering split keyboards (see more at kbd.guojing.io) and tinkering with my Debian Sid setup running the Hyprland desktop environment.
 
 ## Tech Stack
 
@@ -13,7 +13,6 @@ Commonly used languages and frameworks:
   <a href="https://go.dev" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Go.svg" alt="go" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="python" height="40"/> </a>
   <a href="https://www.typescriptlang.org" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="typescript" height="40"/> </a>
-  <a href="https://elixir-lang.org" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/Elixir.svg" alt="elixir" height="40"/> </a>
   <a href="https://react.dev" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="react" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com" target="_blank"> <img src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi" height="40"/> </a>
 </p>
