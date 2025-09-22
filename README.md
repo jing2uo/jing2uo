@@ -2,7 +2,7 @@
 
 Hi, I'm a passionate developer focused on cloud-native technologies, automation, and efficiency. I enjoy building tools, contributing to the open-source community, and exploring new fields like economics, finance, and quantitative investing. Currently working remotely.
 
-Outside of coding, I love hands-on projects like soldering split keyboards (see more at kbd.guojing.io) and tinkering with my Debian Sid setup running the Hyprland desktop environment.
+Outside of coding, I love hands-on projects like soldering split keyboards (see more at [lily58 shop](https://kbd.guojing.io)) and tinkering with my Debian Sid setup running the Hyprland desktop environment.
 
 ## Tech Stack
 
