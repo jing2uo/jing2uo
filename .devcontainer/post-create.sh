@@ -22,5 +22,12 @@ fi
 echo "Installing tools via mise..."
 # Claude Code CLI
 /workspaces/.local/bin/mise use -g claude@latest
+cat >> ~/.bashrc << EOF
+alias cc='command claude --dangerously-skip-permissions; printf "\033c"'
+EOF
 
+/workspaces/.local/bin/mise use -g tmux@latest
+cat >> ~/.bashrc << EOF
+alias tc='command tmux new -A -s claude'
+EOF
 echo "=== Setup Complete ==="
